@@ -2,7 +2,7 @@
 
 2. Qual a diferença entre JRE e JDK?
 
-3. Crie um programa Java que imprima o seguinte texto “Terminei a primeira aula com um programa Java!”.
+3. Crie um programa Java que imprima o seguinte texto “Terminei a primeira aula com um programa Java!”.
 
 4. Compile o programa desenvolvido no exercício anterior. A seguir apague 
 o arquivo .class gerado e tente executar o programa. O que aconteceu?
